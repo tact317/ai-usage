@@ -1,11 +1,19 @@
 {
-  "updated_at": "2026-11-19T10:19:38.265+09:00",
+  "updated_at": "2026-11-19T12:38:04.867+09:00",
   "services": [
     {
       "name": "Muse",
       "weekly_remaining_pct": 0,
       "weekly_reset_at": "2026-11-20T22:27:00+09:00",
-      "note": "無料枠（サブスクリプションなし）。追加トークン 19% 使用（811M tokens left）"
+      "note": "無料枠（サブスクリプションなし）。追加トークン 19% 使用（809M tokens left）"
+    },
+    {
+      "manual": true,
+      "checked_at": "2026-11-19T12:37:00+09:00",
+      "name": "Gemini",
+      "note": "Plusプラン。週間 2%使用。5時間枠 0%使用（本日17:04リセット）",
+      "weekly_remaining_pct": 98,
+      "weekly_reset_at": "2026-11-24T00:04:00+09:00"
     }
   ],
   "unavailable": [
@@ -20,10 +28,6 @@
     {
       "name": "Grok",
       "reason": "アカウント未作成のため取得不可。"
-    },
-    {
-      "name": "Gemini",
-      "reason": "ブラウザで使用量ページ（5時間枠・週間枠・リセット時刻）の手動確認は可能だが、自動収集には組み込んでいない（手動確認のみ）。"
     }
   ]
 }
