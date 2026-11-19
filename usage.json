@@ -1,0 +1,29 @@
+{
+  "updated_at": "2026-11-19T10:19:38.265+09:00",
+  "services": [
+    {
+      "name": "Muse",
+      "weekly_remaining_pct": 0,
+      "weekly_reset_at": "2026-11-20T22:27:00+09:00",
+      "note": "無料枠（サブスクリプションなし）。追加トークン 19% 使用（811M tokens left）"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "Claude",
+      "reason": "claude.ai / Claude Code の使用量はブラウザ自動操作で取得する経路が規約・体制上使えないため、自動取得不可。"
+    },
+    {
+      "name": "Codex",
+      "reason": "ChatGPT のブラウザ操作は既定で不可（手動ペースト運用）のため、自動取得不可。"
+    },
+    {
+      "name": "Grok",
+      "reason": "アカウント未作成のため取得不可。"
+    },
+    {
+      "name": "Gemini",
+      "reason": "ブラウザで使用量ページ（5時間枠・週間枠・リセット時刻）の手動確認は可能だが、自動収集には組み込んでいない（手動確認のみ）。"
+    }
+  ]
+}
