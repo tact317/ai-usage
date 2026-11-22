@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-21T23:18:34.047+09:00",
+  "updated_at": "2026-11-22T11:50:56.793+09:00",
   "services": [
     {
       "name": "Muse",
-      "weekly_remaining_pct": 76,
+      "weekly_remaining_pct": 68,
       "weekly_reset_at": "2026-11-27T22:44:00+09:00",
       "note": "無料枠（サブスクリプションなし）。追加トークン 13% 使用（1.7B tokens left）"
     },
