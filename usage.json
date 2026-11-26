@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-26T07:04:34.561+09:00",
+  "updated_at": "2026-11-26T10:04:34.265+09:00",
   "services": [
     {
       "name": "Muse",
       "weekly_remaining_pct": 0,
       "weekly_reset_at": "2026-11-27T22:44:00+09:00",
-      "note": "無料枠（サブスクリプションなし）。追加トークン 15% 使用（1.7B tokens left）"
+      "note": "無料枠（サブスクリプションなし）。追加トークン 15% 使用（1.6B tokens left）"
     },
     {
       "manual": true,
